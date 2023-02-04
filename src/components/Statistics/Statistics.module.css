@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 1.3rem;
+  }
+  .feedback {
+    display: block;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 1.2rem;
+  }
